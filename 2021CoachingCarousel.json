@@ -2340,7 +2340,7 @@
         },
         {
           "abbreviation" : "USC",
-          "prestige" : "90",
+          "prestige" : "60",
           "hexColor" : "#990000",
           "offCoordinator" : {
             "contractLength" : "2",
