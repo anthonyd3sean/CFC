@@ -1040,7 +1040,7 @@
         },
         {
           "abbreviation" : "USC",
-          "prestige" : "87",
+          "prestige" : "65",
           "hexColor" : "#990000",
           "rival" : "UCLA",
           "headCoach" : {
@@ -1064,7 +1064,7 @@
         },
         {
           "abbreviation" : "UCLA",
-          "prestige" : "87",
+          "prestige" : "82",
           "hexColor" : "#2774AE",
           "rival" : "USC",
           "headCoach" : {
